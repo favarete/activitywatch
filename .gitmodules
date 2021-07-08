@@ -13,9 +13,11 @@
 [submodule "aw-qt"]
 	path = aw-qt
 	url = https://github.com/favarete/aw-qt.git
+	branch = master
 [submodule "aw-watcher-window"]
 	path = aw-watcher-window
 	url = https://github.com/favarete/aw-watcher-window.git
+	branch = master
 [submodule "aw-server-rust"]
 	path = aw-server-rust
 	url = https://github.com/ActivityWatch/aw-server-rust.git
